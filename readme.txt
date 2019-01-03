@@ -1,1 +1,2 @@
-你好我是江欢！
+Git is a distributed version control system.
+Git is free software.
